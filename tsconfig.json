@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "moduleResolution": "Bundler", // Changed from NodeNext to Bundler
+
+    "declaration": true,
+    "declarationMap": true,
+
+    "outDir": "dist",
+    "rootDir": "src",
+
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    
+    /* Best practices for SDKs */
+    "isolatedModules": true,      // Ensures each file can be safely transpiled
+    "moduleDetection": "force"    // Ensures files are treated as modules
+  },
+  "include": ["src"]
+}

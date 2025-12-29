@@ -1,0 +1,16 @@
+# Source files
+src/
+tests/
+.vscode/
+tsconfig.json
+tsup.config.ts
+
+# Logs
+*.log
+
+# Git files (npm doesn’t publish .gitignore automatically)
+.gitignore
+.git/
+
+# Coverage and temp
+coverage/
