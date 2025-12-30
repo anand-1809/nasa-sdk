@@ -1,5 +1,5 @@
 ![Star Wars Space GIF](https://github.com/user-attachments/assets/0ec87fd0-c221-4338-a3ea-1a659e6bbd55)
-# 🚀 NASA APOD SDK
+# @riank718/nasa-sdk 🧑🏻‍🚀🌕
 A production-grade, TypeScript-first SDK for the **NASA Astronomy Picture of the Day (APOD)** API. Engineered for reliability, performance, and developer experience.
 
 ## Badges
